@@ -60,13 +60,13 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Sicknote calculator</title>
+        <title>Vacation calculator</title>
         <meta name="description" content="German sicknote calculator" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Sicknote calculator
+          Vacation calculator
         </h1>
 
         <p className={styles.description}>
